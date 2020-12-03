@@ -1,0 +1,12 @@
+img {
+    border: 3px solid rgb(153, 70, 132);
+  }
+h1 {color: rgb(189, 0, 116);
+	text-align: center;}
+p {font-family: verdana;
+    font-size: 20px;}
+    h2 {color: rgb(189, 0, 116);}
+body {
+     background: url(https://i.pinimg.com/originals/e5/1d/e8/e51de88a412a897659e3b34b87da1502.jpg) no-repeat;
+     background-size: 100%;
+     }
